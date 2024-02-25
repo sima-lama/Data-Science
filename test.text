@@ -6,4 +6,9 @@ if x >60 and x <80:
 if x >=40 and x <60:
     print(f'Grade c')
 else:
-    print(f'Grade d')33
+    print(f'Grade d')
+
+
+
+
+    sddddddddddddddddddds
